@@ -1,2 +1,2 @@
-# Example
-An example greeter plugin
+#DN-Plugs
+Plugins from DN.
